@@ -12,6 +12,7 @@ Stakeholder : </br>
 - Kelompok 3 : Isnaini Nurul K (05111740000010), Rizky Asei Narni (05111740000014), Zahrul Zizki Dinanto (05111740000168)</br>
 - Kelompok 5: Patrick Sungkharisma (05111740000041), Elkana Hans Widersen (05111740000127), I Gede Agung K. P (05111740000135)</br>
 - Kelompok 6: Kholishotul Amalia (05111740000030), Najatul Muslim Dinatra(05111740000079), Meila Kamilia (05111740000189)</br>
+Stakeholder dalam kasus ini berperan sebagai pengguna yang terdiri dari 2 kategori, yaitu Mahasiswa ITS dan Dosen ITS
 
 ## Perhitungan Prioritas dengan Analytical Hierarchy Process (AHP)
 Analytical Hierarchy Process (AHP) adalah suatu metode pengambilan keputusan dengan melakukan perbandingan berpasangan antara kriteria pilihan dan juga perbandingan berpasangan antara pilihan yang ada.
