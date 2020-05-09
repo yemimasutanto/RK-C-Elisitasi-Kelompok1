@@ -20,13 +20,13 @@ Pada studi kasus Sistem Informasi Presensi Online ITS, dari tugas elisitasi kebu
 Kami menggunakan variable Value dan Cost untuk mengukur tingkat prioritas dari kebutuhan pengguna Sistem Informasi Presensi Online ITS tersebut.
 </br> 
 
-Perhitungan bobot Value kami lakukan dengan membuat kuesioner berisikan 19 kebutuhan pengguna, yang diberikan kepada client untuk dijawab dengan skala likert 1(very low)-5(very high).
+Perhitungan bobot Value kami lakukan dengan membuat kuesioner berisikan 19 kebutuhan pengguna, yang diberikan kepada client untuk dijawab dengan skala likert 1(*very low*)-5(*very high*).
 </br>
 
-Perhitungan bobot Cost kami lakukan dengan membuat kuesioner berisikan 19 kebutuhan pengguna, yang diberikan kepada client untuk dijawab dengan skala likert (1very low)-5(very high) 
+Perhitungan bobot Cost kami lakukan dengan membuat kuesioner berisikan 19 kebutuhan pengguna, yang diberikan kepada client untuk dijawab dengan skala likert 1(*very low*)-5(*very high*) 
 </br>
 
 Hasil dari pengumpulan kuisioner dapat diakses pada file [Kuisioner Pengukuran Tingkat Value (Responses).xlsx](https://github.com/yemimasutanto/RK-C-Kelompok1/blob/master/Penugasan%20Prioritisasi%20(FP)/Kuisioner%20Pengukuran%20Tingkat%20Value%20(Responses).xlsx) dan file [Mengukur Cost (Responses).xlsx](https://github.com/yemimasutanto/RK-C-Kelompok1/blob/master/Penugasan%20Prioritisasi%20(FP)/Mengukur%20Cost%20(Responses).xlsx)
 
-Setelah itu melakukan perhitungan dengan teknik AHP. Data hasil kuisioner diolah dengan mencari nilai dan skala dari tiap-tiap kebutuhan, setelah itu membuat matrix perbandingan (*n x n*) dari kebutuhan dengan skalanya yang digunakan sebagai perhitungan elemen matrix. Setelah itu melakukan estimasi eigenvalue, dan didapatkan persentase dari tiap-tiap kebutuhan untuk cost dan valuenya. langkah selanjutnya adalah membuat kesepakatan antara developer dan stakeholder untuk menentukan nilai high margin dan low margin dengan mempertimbangan ketersediaan resource.
+Setelah itu melakukan perhitungan dengan teknik AHP. Data hasil kuisioner diolah dengan mencari nilai dan skala dari tiap-tiap kebutuhan, setelah itu membuat matrix perbandingan (*n x n*) dari kebutuhan dengan skalanya yang digunakan sebagai perhitungan elemen matrix. Setelah itu melakukan estimasi eigenvalue, dan didapatkan persentase dari tiap-tiap kebutuhan untuk cost dan valuenya. langkah selanjutnya adalah membuat kesepakatan antara developer dan stakeholder untuk menentukan nilai *high margin* dan *low margin* dengan mempertimbangan ketersediaan *resource*. Diperoleh ratio value/cost >2.0 (high) dan <0.5 (low), didapatkan tingkat prioritas dari masing-masing  kebutuhan seperti yang tertera di file [AHP Cost & Value.xlsx](https://github.com/yemimasutanto/RK-C-Kelompok1/blob/master/Penugasan%20Prioritisasi%20(FP)/AHP%20Cost%20%26%20Value.xlsx)
 
