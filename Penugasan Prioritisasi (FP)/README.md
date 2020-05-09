@@ -27,3 +27,6 @@ Perhitungan bobot Cost kami lakukan dengan membuat kuesioner berisikan 19 kebutu
 </br>
 
 Hasil dari pengumpulan kuisioner dapat diakses pada file [Kuisioner Pengukuran Tingkat Value (Responses).xlsx](https://github.com/yemimasutanto/RK-C-Kelompok1/blob/master/Penugasan%20Prioritisasi%20(FP)/Kuisioner%20Pengukuran%20Tingkat%20Value%20(Responses).xlsx) dan file [Mengukur Cost (Responses).xlsx](https://github.com/yemimasutanto/RK-C-Kelompok1/blob/master/Penugasan%20Prioritisasi%20(FP)/Mengukur%20Cost%20(Responses).xlsx)
+
+Setelah itu melakukan perhitungan dengan teknik AHP. Data hasil kuisioner diolah dengan mencari nilai dan skala dari tiap-tiap kebutuhan, setelah itu membuat matrix perbandingan (*n x n*) dari kebutuhan dengan skalanya yang digunakan sebagai perhitungan elemen matrix.
+
