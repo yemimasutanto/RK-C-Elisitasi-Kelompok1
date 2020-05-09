@@ -25,3 +25,5 @@ Perhitungan bobot Value kami lakukan dengan membuat kuesioner berisikan 19 kebut
 
 Perhitungan bobot Cost kami lakukan dengan membuat kuesioner berisikan 19 kebutuhan pengguna, yang diberikan kepada client untuk dijawab dengan skala likert (1very low)-5(very high) 
 </br>
+
+Hasil dari pengumpulan kuisioner dapat diakses pada file [Kuisioner Pengukuran Tingkat Value (Responses).xlsx](https://github.com/yemimasutanto/RK-C-Kelompok1/blob/master/Penugasan%20Prioritisasi%20(FP)/Kuisioner%20Pengukuran%20Tingkat%20Value%20(Responses).xlsx) dan file [Mengukur Cost (Responses).xlsx](https://github.com/yemimasutanto/RK-C-Kelompok1/blob/master/Penugasan%20Prioritisasi%20(FP)/Mengukur%20Cost%20(Responses).xlsx)
