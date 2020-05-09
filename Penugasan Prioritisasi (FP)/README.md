@@ -22,3 +22,6 @@ Kami menggunakan variable Value dan Cost untuk mengukur tingkat prioritas dari k
 
 Perhitungan bobot Value kami lakukan dengan membuat kuesioner berisikan 19 kebutuhan pengguna, yang diberikan kepada client untuk dijawab dengan skala likert 1(very low)-5(very high).
 </br>
+
+Perhitungan bobot Cost kami lakukan dengan membuat kuesioner berisikan 19 kebutuhan pengguna, yang diberikan kepada client untuk dijawab dengan skala likert (1very low)-5(very high) 
+</br>
