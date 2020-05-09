@@ -10,4 +10,7 @@ Topik yang digunakan: Sistem informasi Presensi Online (presensi.its.ac.id) </br
 Teknik Prioritisasi : Analytical Hierarchy Process (AHP) </br>
 Stakeholder : kelompok 3, kelompok 5, kelompok 6. </br>
 
-..
+## Perhitungan Prioritas dengan Analytical Hierarchy Process (AHP)
+Analytical Hierarchy Process (AHP) adalah suatu metode pengambilan keputusan dengan melakukan perbandingan berpasangan antara kriteria pilihan dan juga perbandingan berpasangan antara pilihan yang ada.
+
+...................
